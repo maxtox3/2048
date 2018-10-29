@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe.config
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.exe
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\bin\Debug\2048.pdb
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.exe
+\\mac\home\documents\visual studio 2015\Projects\2048\2048\obj\Debug\2048.pdb
